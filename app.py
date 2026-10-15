@@ -513,7 +513,11 @@ with tab3:
     ax.axvline(0, linewidth=1, color="#334155")
     ax.set_title("Feature Coefficients", color="#172554")
     ax.set_xlabel("Coefficient value")
-    ax.set_ylabel("Feature")
+    a
+    
+    
+    
+    x.set_ylabel("Feature")
     ax.grid(axis="x", alpha=0.25)
  
     fig.tight_layout()
